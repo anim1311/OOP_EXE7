@@ -28,3 +28,4 @@ bin/
 .settings/
 .classpath
 .project
+src/main/java/Test.java
